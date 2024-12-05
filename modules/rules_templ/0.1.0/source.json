@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/tomasbasham/rules-templ/archive/refs/tags/v0.1.0.tar.gz",
+  "integrity": "sha256-TVLZctEkAr9wIdbx9a1PcDqX9zR6YAkpQgnBhh3gwqE=",
+  "strip_prefix": "rules-templ-0.1.0",
+  "patch_strip": 1
+}
